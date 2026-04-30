@@ -1,6 +1,6 @@
 # Zunaira Ahmed
 
-> 💻*CS Student |Developer |Problem Solver |Digital Logic Enthusiast*
+> 💻*CS Student|Developer|Problem Solver|Programmer*
 
 📞 **Contact:** +92 336 5690354  
 ✉️ **Email:** zunairaahmed1115@gmail.com  
