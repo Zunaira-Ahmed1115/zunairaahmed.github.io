@@ -72,7 +72,7 @@ Created a knowledge base with recursive rules to query family relationships incl
 
 ## 🔗 LET'S CONNECT
 
-💼 **LinkedIn:**   
+💼 **LinkedIn:**https://www.linkedin.com/in/zunaira-ahmed-zu1515/   
 🐙 **GitHub:**   
 
 *✨ "Logic is my language. Excellence is my standard." ✨*
