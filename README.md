@@ -1,6 +1,6 @@
 # Zunaira Ahmed
 
-> 💻 *Computer Science Student | Developer | Problem Solver | Digital Logic Enthusiast*
+> 💻*CS Student |Developer |Problem Solver |Digital Logic Enthusiast*
 
 📞 **Contact:** +92 336 5690354  
 ✉️ **Email:** zunairaahmed1115@gmail.com  
@@ -10,7 +10,7 @@
 
 **Fatimah Jinnah Women University (FJWU)**  
 *Bachelor of Science in Computer Science (BSCS) | 4th Semester*  
-2024 -- 2028 | CGPA: 3.
+2024 -- 2028 | CGPA: 3.31
 
 ## 🛠️ TECHNICAL SKILLS
 
